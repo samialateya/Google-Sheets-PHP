@@ -41,7 +41,7 @@ composer install
 7. in the credentials json file you will find "client_email" key, copy the value of this key 'which is an email address' and share it with the spread sheet that you want to read from
 
 ## links
-[Postman collection] (https://www.getpostman.com/collections/4ff2d50c8308875ae60b)  to test the app
+[Postman collection](https://www.getpostman.com/collections/4ff2d50c8308875ae60b)  to test the app
 
 ## Contributing
 
