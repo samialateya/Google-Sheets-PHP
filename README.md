@@ -8,7 +8,7 @@ Note: i used Slim 3 to construct the application but you can easily use the goog
 
 User has the following features provided as Web and API
 
-- API Routes from read, write and delete data from the file
+- API Routes fro read, write and delete data from the file
 - reusable helper class that you can use in any other application 
 
 
@@ -41,13 +41,14 @@ composer install
 7. in the credentials json file you will find "client_email" key, copy the value of this key 'which is an email address' and share it with the spread sheet that you want to read from
 
 ## links
-[Postman collection](https://www.getpostman.com/collections/4ff2d50c8308875ae60b)  to test the app
+[Postman collection](https://www.getpostman.com/collections/4ff2d50c8308875ae60b)  to test the app.
 
 ## Contributing
 
-Thank you for considering contributing.
-Feel free to fork this repo and submit a pull request with your updates
+Thank you for considering contributing to this repo.
+Feel free to fork this repo and submit a pull request with your updates.
 
 ## Errors and Vulnerabilities
 
-Please open an issue on Github if you discover a vulnerability with this repo or you face an error feel free to contact me on my email [samialateya@hotmail.com](mailto:samialateya@hotmail.com)
+Please open an issue on Github if you discover a vulnerability or you face an error with this repo.
+and feel free to contact me by email at [samialateya@hotmail.com](mailto:samialateya@hotmail.com).
