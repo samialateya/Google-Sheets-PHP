@@ -17,7 +17,7 @@ User has the following features provided as Web and API
 First clone this repository and install the dependencies
 
 ```
-git clone https://github.com/samialateya/Auth-Starter.git
+git clone https://github.com/samialateya/Google-Sheets-PHP.git
 composer install
 ```
 
