@@ -22,23 +22,23 @@ composer install
 ```
 
 ## Google Developer Console Setup
-1- login to [google console](https://console.developers.google.com/) and create new project
-2- go to Dashboard and click enable API and Services
-3- find google sheet API and click Enable
-4- click on create credentials, it will asks you for the following
-	a- select API : chose google sheet api
-	b- what will be access : chose application data
-	c- Are you planning to use this API with Compute Engine: chose NO
-	d- click next
-	e- add service account name : chose any name you want
-	f- click create and continue 
-	g- chose the role as currently used / owner
-5- go to services account :
-	a- you will see a list of all credentials you created select the last one you created
-	b- go to keys -> add key -> create new key -> select json
-	c- then the json file with all credentials needed will be downloaded to you device
-6- thats all on google developer console
-7- in the credentials json file you will find "client_email" key, copy the value of this key 'which is an email address' and share it with the spread sheet that you want to read from
+1. login to [google console](https://console.developers.google.com/) and create new project
+2. go to Dashboard and click enable API and Services
+3. find google sheet API and click Enable
+4. click on create credentials, it will asks you for the following
+	* select API : chose google sheet api
+	* what will be access : chose application data
+	* Are you planning to use this API with Compute Engine: chose NO
+	* click next
+	* add service account name : chose any name you want
+	* click create and continue 
+	* chose the role as currently used / owner
+5. go to services account :
+	* you will see a list of all credentials you created select the last one you created
+	* go to keys -> add key -> create new key -> select json
+	* then the json file with all credentials needed will be downloaded to you device
+6. thats all on google developer console
+7. in the credentials json file you will find "client_email" key, copy the value of this key 'which is an email address' and share it with the spread sheet that you want to read from
 
 ## links
 [Postman collection] (https://www.getpostman.com/collections/4ff2d50c8308875ae60b)  to test the app
