@@ -1,4 +1,4 @@
-## About Auth Starter
+## About GoogleSheetsPHP
 
 It's a PHP Application to simplify working with Google Sheets SDK for php.
 
