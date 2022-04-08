@@ -19,6 +19,7 @@ First clone this repository and install the dependencies
 ```
 git clone https://github.com/samialateya/Google-Sheets-PHP.git
 composer install
+composer dump-autoload
 ```
 
 ## Google Developer Console Setup
